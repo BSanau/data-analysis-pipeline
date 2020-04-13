@@ -26,10 +26,14 @@ def writing_analysis(txt, country):
         whereas infant mortality goes from {txt["param4"]}. This number {txt["param5"]} related to the number of hospitals 
         {txt["param6"]} have been counted as one unit and not for number of beds. On the other hand, {txt["param7"]} 
         relationship could be observed between the area covered by a hospital and mortality{txt["param8"]} """
+        report = "".join(report.split("\n    "))
     else:
         report = """Great differences can be appreciated between countries as Ghana's mortality is ten times higher than
-        Spain's"""
-    return "".join(report.split("\n    "))    
+        Spain's. Nevertheless, in order to draw a conclusion regarding the influence of the population/hospitals and 
+        area/hospital ratios, more parameters would have to be taken into account, such as the capacity of the hospital."""
+        report = "".join(report.split("\n        "))
+    print(report)     
+    return report    
 
 
 def createpdf (country, owner):
@@ -44,7 +48,10 @@ def createpdf (country, owner):
     #pdf.set_draw_color(220,220,220) # give color to borders
     pdf.set_fill_color(200,200,200)
     
-    pdf.cell(0, 20, f"{country} hospitals - mortality report", 0, 1, "C", True)
+    if country == "Both":
+        pdf.cell(0, 20, f"Mortality in Ghana and Spain - Report", 0, 1, "C", True)
+    else:
+        pdf.cell(0, 20, f"{country} hospitals - mortality report", 0, 1, "C", True)
     #FPDF.set_title(title = f"{country} hospitals - mortality report")
 
     # Image
