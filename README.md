@@ -27,8 +27,8 @@ This program has to be executed by console by entering two parameters:
 
 $ python3 main.py --country COUNTRY --owner OWNER
 
-COUNTRY: Enther Ghana or Spain
+COUNTRY: Enther Ghana, Spain or Both.
 
-OWNER: Enter Government or Private
+OWNER: Enter Government or Private.
 
 The program will create a PDF with the report of the analysis of the parameters studied, comparing the ratios Population/ No. hospitals and Area/ No. hospitals against infant mortality.
