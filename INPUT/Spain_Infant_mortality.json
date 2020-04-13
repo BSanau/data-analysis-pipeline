@@ -1,0 +1,321 @@
+[{"COD":"IDB55717", "Nombre":"Mortalidad. Total Nacional. Ambos sexos.", "T3_Unidad":"Defunciones por mil nacidos vivos", "T3_Escala":" ", "MetaData":[{"Id":16473, "Variable":{"Id":349, "Nombre":"Totales Territoriales", "Codigo":"13"}
+, "Nombre":"Total Nacional", "Codigo":"00"}
+,{"Id":12544, "Variable":{"Id":259, "Nombre":"Fecundidad, Nupcialidad, Mortalidad, Indicadores de población e Indicadores de migraciones", "Codigo":""}
+, "Nombre":"Mortalidad", "Codigo":""}
+,{"Id":12551, "Variable":{"Id":260, "Nombre":"Conceptos Demográficos", "Codigo":""}
+, "Nombre":"Tasa de mortalidad infantil menores de 1 año", "Codigo":""}
+,{"Id":451, "Variable":{"Id":18, "Nombre":"Sexo", "Codigo":""}
+, "Nombre":"Ambos sexos", "Codigo":"0"}
+,{"Id":14954, "Variable":{"Id":310, "Nombre":"Periodicidad", "Codigo":""}
+, "Nombre":"Anual", "Codigo":""}
+,{"Id":72, "Variable":{"Id":3, "Nombre":"Tipo de dato", "Codigo":"7"}
+, "Nombre":"Dato base", "Codigo":"0"}
+]
+, "Data":[{"Fecha":"2006-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2006, "Valor":3.49}
+]
+}
+,{"COD":"IDB55853", "Nombre":"Mortalidad. Andalucía. Ambos sexos.", "T3_Unidad":"Defunciones por mil nacidos vivos", "T3_Escala":" ", "MetaData":[{"Id":8997, "Variable":{"Id":70, "Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"1"}
+, "Nombre":"Andalucía", "Codigo":"01"}
+,{"Id":12544, "Variable":{"Id":259, "Nombre":"Fecundidad, Nupcialidad, Mortalidad, Indicadores de población e Indicadores de migraciones", "Codigo":""}
+, "Nombre":"Mortalidad", "Codigo":""}
+,{"Id":12551, "Variable":{"Id":260, "Nombre":"Conceptos Demográficos", "Codigo":""}
+, "Nombre":"Tasa de mortalidad infantil menores de 1 año", "Codigo":""}
+,{"Id":451, "Variable":{"Id":18, "Nombre":"Sexo", "Codigo":""}
+, "Nombre":"Ambos sexos", "Codigo":"0"}
+,{"Id":14954, "Variable":{"Id":310, "Nombre":"Periodicidad", "Codigo":""}
+, "Nombre":"Anual", "Codigo":""}
+,{"Id":72, "Variable":{"Id":3, "Nombre":"Tipo de dato", "Codigo":"7"}
+, "Nombre":"Dato base", "Codigo":"0"}
+]
+, "Data":[{"Fecha":"2006-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2006, "Valor":4.24}
+]
+}
+,{"COD":"IDB55856", "Nombre":"Mortalidad. Aragón. Ambos sexos.", "T3_Unidad":"Defunciones por mil nacidos vivos", "T3_Escala":" ", "MetaData":[{"Id":8998, "Variable":{"Id":70, "Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"1"}
+, "Nombre":"Aragón", "Codigo":"02"}
+,{"Id":12544, "Variable":{"Id":259, "Nombre":"Fecundidad, Nupcialidad, Mortalidad, Indicadores de población e Indicadores de migraciones", "Codigo":""}
+, "Nombre":"Mortalidad", "Codigo":""}
+,{"Id":12551, "Variable":{"Id":260, "Nombre":"Conceptos Demográficos", "Codigo":""}
+, "Nombre":"Tasa de mortalidad infantil menores de 1 año", "Codigo":""}
+,{"Id":451, "Variable":{"Id":18, "Nombre":"Sexo", "Codigo":""}
+, "Nombre":"Ambos sexos", "Codigo":"0"}
+,{"Id":14954, "Variable":{"Id":310, "Nombre":"Periodicidad", "Codigo":""}
+, "Nombre":"Anual", "Codigo":""}
+,{"Id":72, "Variable":{"Id":3, "Nombre":"Tipo de dato", "Codigo":"7"}
+, "Nombre":"Dato base", "Codigo":"0"}
+]
+, "Data":[{"Fecha":"2006-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2006, "Valor":3.42}
+]
+}
+,{"COD":"IDB55859", "Nombre":"Mortalidad. Asturias (Principado de). Ambos sexos.", "T3_Unidad":"Defunciones por mil nacidos vivos", "T3_Escala":" ", "MetaData":[{"Id":8999, "Variable":{"Id":70, "Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"1"}
+, "Nombre":"Asturias, Principado de", "Codigo":"03"}
+,{"Id":12544, "Variable":{"Id":259, "Nombre":"Fecundidad, Nupcialidad, Mortalidad, Indicadores de población e Indicadores de migraciones", "Codigo":""}
+, "Nombre":"Mortalidad", "Codigo":""}
+,{"Id":12551, "Variable":{"Id":260, "Nombre":"Conceptos Demográficos", "Codigo":""}
+, "Nombre":"Tasa de mortalidad infantil menores de 1 año", "Codigo":""}
+,{"Id":451, "Variable":{"Id":18, "Nombre":"Sexo", "Codigo":""}
+, "Nombre":"Ambos sexos", "Codigo":"0"}
+,{"Id":14954, "Variable":{"Id":310, "Nombre":"Periodicidad", "Codigo":""}
+, "Nombre":"Anual", "Codigo":""}
+,{"Id":72, "Variable":{"Id":3, "Nombre":"Tipo de dato", "Codigo":"7"}
+, "Nombre":"Dato base", "Codigo":"0"}
+]
+, "Data":[{"Fecha":"2006-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2006, "Valor":3.95}
+]
+}
+,{"COD":"IDB53360", "Nombre":"Mortalidad. Balears (Illes). Ambos sexos.", "T3_Unidad":"Defunciones por mil nacidos vivos", "T3_Escala":" ", "MetaData":[{"Id":9000, "Variable":{"Id":70, "Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"1"}
+, "Nombre":"Balears, Illes", "Codigo":"04"}
+,{"Id":12544, "Variable":{"Id":259, "Nombre":"Fecundidad, Nupcialidad, Mortalidad, Indicadores de población e Indicadores de migraciones", "Codigo":""}
+, "Nombre":"Mortalidad", "Codigo":""}
+,{"Id":12551, "Variable":{"Id":260, "Nombre":"Conceptos Demográficos", "Codigo":""}
+, "Nombre":"Tasa de mortalidad infantil menores de 1 año", "Codigo":""}
+,{"Id":451, "Variable":{"Id":18, "Nombre":"Sexo", "Codigo":""}
+, "Nombre":"Ambos sexos", "Codigo":"0"}
+,{"Id":14954, "Variable":{"Id":310, "Nombre":"Periodicidad", "Codigo":""}
+, "Nombre":"Anual", "Codigo":""}
+,{"Id":72, "Variable":{"Id":3, "Nombre":"Tipo de dato", "Codigo":"7"}
+, "Nombre":"Dato base", "Codigo":"0"}
+]
+, "Data":[{"Fecha":"2006-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2006, "Valor":3.17}
+]
+}
+,{"COD":"IDB53363", "Nombre":"Mortalidad. Canarias. Ambos sexos.", "T3_Unidad":"Defunciones por mil nacidos vivos", "T3_Escala":" ", "MetaData":[{"Id":9001, "Variable":{"Id":70, "Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"1"}
+, "Nombre":"Canarias", "Codigo":"05"}
+,{"Id":12544, "Variable":{"Id":259, "Nombre":"Fecundidad, Nupcialidad, Mortalidad, Indicadores de población e Indicadores de migraciones", "Codigo":""}
+, "Nombre":"Mortalidad", "Codigo":""}
+,{"Id":12551, "Variable":{"Id":260, "Nombre":"Conceptos Demográficos", "Codigo":""}
+, "Nombre":"Tasa de mortalidad infantil menores de 1 año", "Codigo":""}
+,{"Id":451, "Variable":{"Id":18, "Nombre":"Sexo", "Codigo":""}
+, "Nombre":"Ambos sexos", "Codigo":"0"}
+,{"Id":14954, "Variable":{"Id":310, "Nombre":"Periodicidad", "Codigo":""}
+, "Nombre":"Anual", "Codigo":""}
+,{"Id":72, "Variable":{"Id":3, "Nombre":"Tipo de dato", "Codigo":"7"}
+, "Nombre":"Dato base", "Codigo":"0"}
+]
+, "Data":[{"Fecha":"2006-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2006, "Valor":4.06}
+]
+}
+,{"COD":"IDB53366", "Nombre":"Mortalidad. Cantabria. Ambos sexos.", "T3_Unidad":"Defunciones por mil nacidos vivos", "T3_Escala":" ", "MetaData":[{"Id":9002, "Variable":{"Id":70, "Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"1"}
+, "Nombre":"Cantabria", "Codigo":"06"}
+,{"Id":12544, "Variable":{"Id":259, "Nombre":"Fecundidad, Nupcialidad, Mortalidad, Indicadores de población e Indicadores de migraciones", "Codigo":""}
+, "Nombre":"Mortalidad", "Codigo":""}
+,{"Id":12551, "Variable":{"Id":260, "Nombre":"Conceptos Demográficos", "Codigo":""}
+, "Nombre":"Tasa de mortalidad infantil menores de 1 año", "Codigo":""}
+,{"Id":451, "Variable":{"Id":18, "Nombre":"Sexo", "Codigo":""}
+, "Nombre":"Ambos sexos", "Codigo":"0"}
+,{"Id":14954, "Variable":{"Id":310, "Nombre":"Periodicidad", "Codigo":""}
+, "Nombre":"Anual", "Codigo":""}
+,{"Id":72, "Variable":{"Id":3, "Nombre":"Tipo de dato", "Codigo":"7"}
+, "Nombre":"Dato base", "Codigo":"0"}
+]
+, "Data":[{"Fecha":"2006-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2006, "Valor":2.29}
+]
+}
+,{"COD":"IDB53369", "Nombre":"Mortalidad. Castilla y León. Ambos sexos.", "T3_Unidad":"Defunciones por mil nacidos vivos", "T3_Escala":" ", "MetaData":[{"Id":9003, "Variable":{"Id":70, "Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"1"}
+, "Nombre":"Castilla y León", "Codigo":"07"}
+,{"Id":12544, "Variable":{"Id":259, "Nombre":"Fecundidad, Nupcialidad, Mortalidad, Indicadores de población e Indicadores de migraciones", "Codigo":""}
+, "Nombre":"Mortalidad", "Codigo":""}
+,{"Id":12551, "Variable":{"Id":260, "Nombre":"Conceptos Demográficos", "Codigo":""}
+, "Nombre":"Tasa de mortalidad infantil menores de 1 año", "Codigo":""}
+,{"Id":451, "Variable":{"Id":18, "Nombre":"Sexo", "Codigo":""}
+, "Nombre":"Ambos sexos", "Codigo":"0"}
+,{"Id":14954, "Variable":{"Id":310, "Nombre":"Periodicidad", "Codigo":""}
+, "Nombre":"Anual", "Codigo":""}
+,{"Id":72, "Variable":{"Id":3, "Nombre":"Tipo de dato", "Codigo":"7"}
+, "Nombre":"Dato base", "Codigo":"0"}
+]
+, "Data":[{"Fecha":"2006-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2006, "Valor":3.84}
+]
+}
+,{"COD":"IDB53372", "Nombre":"Mortalidad. Castilla - La Mancha. Ambos sexos.", "T3_Unidad":"Defunciones por mil nacidos vivos", "T3_Escala":" ", "MetaData":[{"Id":9004, "Variable":{"Id":70, "Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"1"}
+, "Nombre":"Castilla - La Mancha", "Codigo":"08"}
+,{"Id":12544, "Variable":{"Id":259, "Nombre":"Fecundidad, Nupcialidad, Mortalidad, Indicadores de población e Indicadores de migraciones", "Codigo":""}
+, "Nombre":"Mortalidad", "Codigo":""}
+,{"Id":12551, "Variable":{"Id":260, "Nombre":"Conceptos Demográficos", "Codigo":""}
+, "Nombre":"Tasa de mortalidad infantil menores de 1 año", "Codigo":""}
+,{"Id":451, "Variable":{"Id":18, "Nombre":"Sexo", "Codigo":""}
+, "Nombre":"Ambos sexos", "Codigo":"0"}
+,{"Id":14954, "Variable":{"Id":310, "Nombre":"Periodicidad", "Codigo":""}
+, "Nombre":"Anual", "Codigo":""}
+,{"Id":72, "Variable":{"Id":3, "Nombre":"Tipo de dato", "Codigo":"7"}
+, "Nombre":"Dato base", "Codigo":"0"}
+]
+, "Data":[{"Fecha":"2006-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2006, "Valor":3.29}
+]
+}
+,{"COD":"IDB53375", "Nombre":"Mortalidad. Cataluña. Ambos sexos.", "T3_Unidad":"Defunciones por mil nacidos vivos", "T3_Escala":" ", "MetaData":[{"Id":9005, "Variable":{"Id":70, "Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"1"}
+, "Nombre":"Cataluña", "Codigo":"09"}
+,{"Id":12544, "Variable":{"Id":259, "Nombre":"Fecundidad, Nupcialidad, Mortalidad, Indicadores de población e Indicadores de migraciones", "Codigo":""}
+, "Nombre":"Mortalidad", "Codigo":""}
+,{"Id":12551, "Variable":{"Id":260, "Nombre":"Conceptos Demográficos", "Codigo":""}
+, "Nombre":"Tasa de mortalidad infantil menores de 1 año", "Codigo":""}
+,{"Id":451, "Variable":{"Id":18, "Nombre":"Sexo", "Codigo":""}
+, "Nombre":"Ambos sexos", "Codigo":"0"}
+,{"Id":14954, "Variable":{"Id":310, "Nombre":"Periodicidad", "Codigo":""}
+, "Nombre":"Anual", "Codigo":""}
+,{"Id":72, "Variable":{"Id":3, "Nombre":"Tipo de dato", "Codigo":"7"}
+, "Nombre":"Dato base", "Codigo":"0"}
+]
+, "Data":[{"Fecha":"2006-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2006, "Valor":2.81}
+]
+}
+,{"COD":"IDB53378", "Nombre":"Mortalidad. Comunitat Valenciana. Ambos sexos.", "T3_Unidad":"Defunciones por mil nacidos vivos", "T3_Escala":" ", "MetaData":[{"Id":9006, "Variable":{"Id":70, "Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"1"}
+, "Nombre":"Comunitat Valenciana", "Codigo":"10"}
+,{"Id":12544, "Variable":{"Id":259, "Nombre":"Fecundidad, Nupcialidad, Mortalidad, Indicadores de población e Indicadores de migraciones", "Codigo":""}
+, "Nombre":"Mortalidad", "Codigo":""}
+,{"Id":12551, "Variable":{"Id":260, "Nombre":"Conceptos Demográficos", "Codigo":""}
+, "Nombre":"Tasa de mortalidad infantil menores de 1 año", "Codigo":""}
+,{"Id":451, "Variable":{"Id":18, "Nombre":"Sexo", "Codigo":""}
+, "Nombre":"Ambos sexos", "Codigo":"0"}
+,{"Id":14954, "Variable":{"Id":310, "Nombre":"Periodicidad", "Codigo":""}
+, "Nombre":"Anual", "Codigo":""}
+,{"Id":72, "Variable":{"Id":3, "Nombre":"Tipo de dato", "Codigo":"7"}
+, "Nombre":"Dato base", "Codigo":"0"}
+]
+, "Data":[{"Fecha":"2006-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2006, "Valor":3.17}
+]
+}
+,{"COD":"IDB53381", "Nombre":"Mortalidad. Extremadura. Ambos sexos.", "T3_Unidad":"Defunciones por mil nacidos vivos", "T3_Escala":" ", "MetaData":[{"Id":9007, "Variable":{"Id":70, "Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"1"}
+, "Nombre":"Extremadura", "Codigo":"11"}
+,{"Id":12544, "Variable":{"Id":259, "Nombre":"Fecundidad, Nupcialidad, Mortalidad, Indicadores de población e Indicadores de migraciones", "Codigo":""}
+, "Nombre":"Mortalidad", "Codigo":""}
+,{"Id":12551, "Variable":{"Id":260, "Nombre":"Conceptos Demográficos", "Codigo":""}
+, "Nombre":"Tasa de mortalidad infantil menores de 1 año", "Codigo":""}
+,{"Id":451, "Variable":{"Id":18, "Nombre":"Sexo", "Codigo":""}
+, "Nombre":"Ambos sexos", "Codigo":"0"}
+,{"Id":14954, "Variable":{"Id":310, "Nombre":"Periodicidad", "Codigo":""}
+, "Nombre":"Anual", "Codigo":""}
+,{"Id":72, "Variable":{"Id":3, "Nombre":"Tipo de dato", "Codigo":"7"}
+, "Nombre":"Dato base", "Codigo":"0"}
+]
+, "Data":[{"Fecha":"2006-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2006, "Valor":4.15}
+]
+}
+,{"COD":"IDB53384", "Nombre":"Mortalidad. Galicia. Ambos sexos.", "T3_Unidad":"Defunciones por mil nacidos vivos", "T3_Escala":" ", "MetaData":[{"Id":9008, "Variable":{"Id":70, "Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"1"}
+, "Nombre":"Galicia", "Codigo":"12"}
+,{"Id":12544, "Variable":{"Id":259, "Nombre":"Fecundidad, Nupcialidad, Mortalidad, Indicadores de población e Indicadores de migraciones", "Codigo":""}
+, "Nombre":"Mortalidad", "Codigo":""}
+,{"Id":12551, "Variable":{"Id":260, "Nombre":"Conceptos Demográficos", "Codigo":""}
+, "Nombre":"Tasa de mortalidad infantil menores de 1 año", "Codigo":""}
+,{"Id":451, "Variable":{"Id":18, "Nombre":"Sexo", "Codigo":""}
+, "Nombre":"Ambos sexos", "Codigo":"0"}
+,{"Id":14954, "Variable":{"Id":310, "Nombre":"Periodicidad", "Codigo":""}
+, "Nombre":"Anual", "Codigo":""}
+,{"Id":72, "Variable":{"Id":3, "Nombre":"Tipo de dato", "Codigo":"7"}
+, "Nombre":"Dato base", "Codigo":"0"}
+]
+, "Data":[{"Fecha":"2006-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2006, "Valor":3.41}
+]
+}
+,{"COD":"IDB53387", "Nombre":"Mortalidad. Madrid (Comunidad de). Ambos sexos.", "T3_Unidad":"Defunciones por mil nacidos vivos", "T3_Escala":" ", "MetaData":[{"Id":9009, "Variable":{"Id":70, "Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"1"}
+, "Nombre":"Madrid, Comunidad de", "Codigo":"13"}
+,{"Id":12544, "Variable":{"Id":259, "Nombre":"Fecundidad, Nupcialidad, Mortalidad, Indicadores de población e Indicadores de migraciones", "Codigo":""}
+, "Nombre":"Mortalidad", "Codigo":""}
+,{"Id":12551, "Variable":{"Id":260, "Nombre":"Conceptos Demográficos", "Codigo":""}
+, "Nombre":"Tasa de mortalidad infantil menores de 1 año", "Codigo":""}
+,{"Id":451, "Variable":{"Id":18, "Nombre":"Sexo", "Codigo":""}
+, "Nombre":"Ambos sexos", "Codigo":"0"}
+,{"Id":14954, "Variable":{"Id":310, "Nombre":"Periodicidad", "Codigo":""}
+, "Nombre":"Anual", "Codigo":""}
+,{"Id":72, "Variable":{"Id":3, "Nombre":"Tipo de dato", "Codigo":"7"}
+, "Nombre":"Dato base", "Codigo":"0"}
+]
+, "Data":[{"Fecha":"2006-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2006, "Valor":3.07}
+]
+}
+,{"COD":"IDB53390", "Nombre":"Mortalidad. Murcia (Región de). Ambos sexos.", "T3_Unidad":"Defunciones por mil nacidos vivos", "T3_Escala":" ", "MetaData":[{"Id":9010, "Variable":{"Id":70, "Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"1"}
+, "Nombre":"Murcia, Región de", "Codigo":"14"}
+,{"Id":12544, "Variable":{"Id":259, "Nombre":"Fecundidad, Nupcialidad, Mortalidad, Indicadores de población e Indicadores de migraciones", "Codigo":""}
+, "Nombre":"Mortalidad", "Codigo":""}
+,{"Id":12551, "Variable":{"Id":260, "Nombre":"Conceptos Demográficos", "Codigo":""}
+, "Nombre":"Tasa de mortalidad infantil menores de 1 año", "Codigo":""}
+,{"Id":451, "Variable":{"Id":18, "Nombre":"Sexo", "Codigo":""}
+, "Nombre":"Ambos sexos", "Codigo":"0"}
+,{"Id":14954, "Variable":{"Id":310, "Nombre":"Periodicidad", "Codigo":""}
+, "Nombre":"Anual", "Codigo":""}
+,{"Id":72, "Variable":{"Id":3, "Nombre":"Tipo de dato", "Codigo":"7"}
+, "Nombre":"Dato base", "Codigo":"0"}
+]
+, "Data":[{"Fecha":"2006-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2006, "Valor":4.15}
+]
+}
+,{"COD":"IDB53393", "Nombre":"Mortalidad. Navarra (Comunidad Foral de). Ambos sexos.", "T3_Unidad":"Defunciones por mil nacidos vivos", "T3_Escala":" ", "MetaData":[{"Id":9011, "Variable":{"Id":70, "Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"1"}
+, "Nombre":"Navarra, Comunidad Foral de", "Codigo":"15"}
+,{"Id":12544, "Variable":{"Id":259, "Nombre":"Fecundidad, Nupcialidad, Mortalidad, Indicadores de población e Indicadores de migraciones", "Codigo":""}
+, "Nombre":"Mortalidad", "Codigo":""}
+,{"Id":12551, "Variable":{"Id":260, "Nombre":"Conceptos Demográficos", "Codigo":""}
+, "Nombre":"Tasa de mortalidad infantil menores de 1 año", "Codigo":""}
+,{"Id":451, "Variable":{"Id":18, "Nombre":"Sexo", "Codigo":""}
+, "Nombre":"Ambos sexos", "Codigo":"0"}
+,{"Id":14954, "Variable":{"Id":310, "Nombre":"Periodicidad", "Codigo":""}
+, "Nombre":"Anual", "Codigo":""}
+,{"Id":72, "Variable":{"Id":3, "Nombre":"Tipo de dato", "Codigo":"7"}
+, "Nombre":"Dato base", "Codigo":"0"}
+]
+, "Data":[{"Fecha":"2006-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2006, "Valor":2.75}
+]
+}
+,{"COD":"IDB53396", "Nombre":"Mortalidad. País Vasco. Ambos sexos.", "T3_Unidad":"Defunciones por mil nacidos vivos", "T3_Escala":" ", "MetaData":[{"Id":9012, "Variable":{"Id":70, "Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"1"}
+, "Nombre":"País Vasco", "Codigo":"16"}
+,{"Id":12544, "Variable":{"Id":259, "Nombre":"Fecundidad, Nupcialidad, Mortalidad, Indicadores de población e Indicadores de migraciones", "Codigo":""}
+, "Nombre":"Mortalidad", "Codigo":""}
+,{"Id":12551, "Variable":{"Id":260, "Nombre":"Conceptos Demográficos", "Codigo":""}
+, "Nombre":"Tasa de mortalidad infantil menores de 1 año", "Codigo":""}
+,{"Id":451, "Variable":{"Id":18, "Nombre":"Sexo", "Codigo":""}
+, "Nombre":"Ambos sexos", "Codigo":"0"}
+,{"Id":14954, "Variable":{"Id":310, "Nombre":"Periodicidad", "Codigo":""}
+, "Nombre":"Anual", "Codigo":""}
+,{"Id":72, "Variable":{"Id":3, "Nombre":"Tipo de dato", "Codigo":"7"}
+, "Nombre":"Dato base", "Codigo":"0"}
+]
+, "Data":[{"Fecha":"2006-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2006, "Valor":3.3}
+]
+}
+,{"COD":"IDB53399", "Nombre":"Mortalidad. Rioja (La). Ambos sexos.", "T3_Unidad":"Defunciones por mil nacidos vivos", "T3_Escala":" ", "MetaData":[{"Id":9013, "Variable":{"Id":70, "Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"1"}
+, "Nombre":"Rioja, La", "Codigo":"17"}
+,{"Id":12544, "Variable":{"Id":259, "Nombre":"Fecundidad, Nupcialidad, Mortalidad, Indicadores de población e Indicadores de migraciones", "Codigo":""}
+, "Nombre":"Mortalidad", "Codigo":""}
+,{"Id":12551, "Variable":{"Id":260, "Nombre":"Conceptos Demográficos", "Codigo":""}
+, "Nombre":"Tasa de mortalidad infantil menores de 1 año", "Codigo":""}
+,{"Id":451, "Variable":{"Id":18, "Nombre":"Sexo", "Codigo":""}
+, "Nombre":"Ambos sexos", "Codigo":"0"}
+,{"Id":14954, "Variable":{"Id":310, "Nombre":"Periodicidad", "Codigo":""}
+, "Nombre":"Anual", "Codigo":""}
+,{"Id":72, "Variable":{"Id":3, "Nombre":"Tipo de dato", "Codigo":"7"}
+, "Nombre":"Dato base", "Codigo":"0"}
+]
+, "Data":[{"Fecha":"2006-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2006, "Valor":5.54}
+]
+}
+,{"COD":"IDB53402", "Nombre":"Mortalidad. Ceuta (Ciudad Autónoma de). Ambos sexos.", "T3_Unidad":"Defunciones por mil nacidos vivos", "T3_Escala":" ", "MetaData":[{"Id":9015, "Variable":{"Id":70, "Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"1"}
+, "Nombre":"Ceuta", "Codigo":"18"}
+,{"Id":12544, "Variable":{"Id":259, "Nombre":"Fecundidad, Nupcialidad, Mortalidad, Indicadores de población e Indicadores de migraciones", "Codigo":""}
+, "Nombre":"Mortalidad", "Codigo":""}
+,{"Id":12551, "Variable":{"Id":260, "Nombre":"Conceptos Demográficos", "Codigo":""}
+, "Nombre":"Tasa de mortalidad infantil menores de 1 año", "Codigo":""}
+,{"Id":451, "Variable":{"Id":18, "Nombre":"Sexo", "Codigo":""}
+, "Nombre":"Ambos sexos", "Codigo":"0"}
+,{"Id":14954, "Variable":{"Id":310, "Nombre":"Periodicidad", "Codigo":""}
+, "Nombre":"Anual", "Codigo":""}
+,{"Id":72, "Variable":{"Id":3, "Nombre":"Tipo de dato", "Codigo":"7"}
+, "Nombre":"Dato base", "Codigo":"0"}
+]
+, "Data":[{"Fecha":"2006-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2006, "Valor":12.49}
+]
+}
+,{"COD":"IDB53405", "Nombre":"Mortalidad. Melilla (Ciudad Autónoma de). Ambos sexos.", "T3_Unidad":"Defunciones por mil nacidos vivos", "T3_Escala":" ", "MetaData":[{"Id":8995, "Variable":{"Id":70, "Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"1"}
+, "Nombre":"Melilla", "Codigo":"19"}
+,{"Id":12544, "Variable":{"Id":259, "Nombre":"Fecundidad, Nupcialidad, Mortalidad, Indicadores de población e Indicadores de migraciones", "Codigo":""}
+, "Nombre":"Mortalidad", "Codigo":""}
+,{"Id":12551, "Variable":{"Id":260, "Nombre":"Conceptos Demográficos", "Codigo":""}
+, "Nombre":"Tasa de mortalidad infantil menores de 1 año", "Codigo":""}
+,{"Id":451, "Variable":{"Id":18, "Nombre":"Sexo", "Codigo":""}
+, "Nombre":"Ambos sexos", "Codigo":"0"}
+,{"Id":14954, "Variable":{"Id":310, "Nombre":"Periodicidad", "Codigo":""}
+, "Nombre":"Anual", "Codigo":""}
+,{"Id":72, "Variable":{"Id":3, "Nombre":"Tipo de dato", "Codigo":"7"}
+, "Nombre":"Dato base", "Codigo":"0"}
+]
+, "Data":[{"Fecha":"2006-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2006, "Valor":5.35}
+]
+}
+]
