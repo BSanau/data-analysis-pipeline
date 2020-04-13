@@ -1,3 +1,4 @@
+#import fpdf
 import pandas as pd
 import sys
 from argparse import ArgumentParser
@@ -11,6 +12,7 @@ from SRC.mortality_spain import mortality_spain
 
 from SRC.f_rejection import rejection
 from SRC.f_plot import plotfunction
+from SRC.f_createpdf import createpdf
 
 
 ####    HOSPITALS DF    ####
@@ -47,3 +49,4 @@ if rejected == None:
 plotfunction (study_df)        
 
 # Guardar la función, crear un PDF
+createpdf(args.country, args.owner)
