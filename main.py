@@ -67,9 +67,8 @@ def main():
             plotboth(study_df)
         #print(study_df)
 
-
-    # Guardar la función, crear un PDF
-    createpdf(args.country, args.owner)
+        # Guardar la función, crear un PDF
+        createpdf(args.country, args.owner)
 
 if __name__ == "__main__": 
     main() 

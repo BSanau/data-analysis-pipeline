@@ -6,5 +6,5 @@ def rejection (owner, country):
         print ("Please, enter Government or Private")
         return True
     if country not in ["Ghana", "Spain", "Both"]:
-        print ("Please, enter Ghana or Spain")
+        print ("Please, enter Ghana, Spain or Both")
         return True

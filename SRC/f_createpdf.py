@@ -26,13 +26,13 @@ def writing_analysis(txt, country):
         whereas infant mortality goes from {txt["param4"]}. This number {txt["param5"]} related to the number of hospitals 
         {txt["param6"]} have been counted as one unit and not for number of beds. On the other hand, {txt["param7"]} 
         relationship could be observed between the area covered by a hospital and mortality{txt["param8"]} """
-        report = "".join(report.split("\n    "))
+        report = "".join(report.split("\n       "))
     else:
         report = """Great differences can be appreciated between countries as Ghana's mortality is ten times higher than
         Spain's. Nevertheless, in order to draw a conclusion regarding the influence of the population/hospitals and 
         area/hospital ratios, more parameters would have to be taken into account, such as the capacity of the hospital."""
         report = "".join(report.split("\n        "))
-    print(report)     
+    #print(report)     
     return report    
 
 

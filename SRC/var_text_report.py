@@ -3,7 +3,7 @@ texto = {
     "Situation1" : # Ghana - Government
      {"param1" : "Ghana", "param2" : "public", "param3" : "100k-200k", "param4" : "0.5-1.1%",
      "param5" : "does not seem", "param6" : "as they", "param7" : "a possible", 
-     "param8" : ", given that the larger the area, the higher the number of deaths."},
+     "param8" : ", given that the larger the area is, the higher the number of deaths."},
 
     "Situation2" : # Ghana - Private
      {"param1" : "Ghana", "param2" : "private", "param3" : "1M", "param4" : "0,5-1.1%",
