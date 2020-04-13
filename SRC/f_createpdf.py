@@ -11,15 +11,24 @@ def situation (country, owner):
         txt = texto["Situation3"]
     elif country == "Spain" and owner == "Private":
         txt = texto["Situation4"]
+    else:
+        txt = ""
+    #elif country == "Both" and owner == "Government":
+    #    txt = texto["Situation5"]
+    #elif country == "Both" and owner == "Private":
+    #    txt = texto["Situation6"]
     return txt
 
 
-def writing_analysis(txt):
-    report = f""" Regions in {txt["param1"]} usually have one {txt["param2"]} hospital for every {txt["param3"]} people 
-    whereas infant mortality goes from {txt["param4"]}. This number {txt["param5"]} related to the number of hospitals 
-    {txt["param6"]} have been counted as one unit and not for number of beds. On the other hand, {txt["param7"]} 
-    relationship could be observed between the area covered by a hospital and mortality{txt["param8"]} """
-
+def writing_analysis(txt, country):
+    if country == "Ghana" or country == "Spain":
+        report = f"""Regions in {txt["param1"]} usually have one {txt["param2"]} hospital for every {txt["param3"]} people 
+        whereas infant mortality goes from {txt["param4"]}. This number {txt["param5"]} related to the number of hospitals 
+        {txt["param6"]} have been counted as one unit and not for number of beds. On the other hand, {txt["param7"]} 
+        relationship could be observed between the area covered by a hospital and mortality{txt["param8"]} """
+    else:
+        report = """Great differences can be appreciated between countries as Ghana's mortality is ten times higher than
+        Spain's"""
     return "".join(report.split("\n    "))    
 
 
@@ -34,6 +43,7 @@ def createpdf (country, owner):
     pdf.set_text_color(15,20,85)
     #pdf.set_draw_color(220,220,220) # give color to borders
     pdf.set_fill_color(200,200,200)
+    
     pdf.cell(0, 20, f"{country} hospitals - mortality report", 0, 1, "C", True)
     #FPDF.set_title(title = f"{country} hospitals - mortality report")
 
@@ -44,7 +54,7 @@ def createpdf (country, owner):
     pdf.set_font("Arial", "", 12)
     pdf.set_text_color(10,10,10)
     txt = situation (country, owner)
-    report = writing_analysis(txt)
+    report = writing_analysis(txt, country)
     #pdf.cell(0, 240, report)
     #FPDF.text(x=0, y=140, report)
     #FPDF.set_xy(0.00, 10.00)
