@@ -1,6 +1,6 @@
 # data-analysis-pipeline
 
-![](INPUT/image.jpg)
+<img src "INPUT/image.jpg">
 
 ## Objective
 
