@@ -4,13 +4,23 @@ from SRC.var_text_report import texto
 
 def situation (country, owner):
     if country == "Ghana" and owner == "Government":
-        return texto["Situation1"]
+        txt = texto["Situation1"]
     elif country == "Ghana" and owner == "Private":
-        return texto["Situation2"]
+        txt = texto["Situation2"] 
     elif country == "Spain" and owner == "Government":
-        return texto["Situation3"]
+        txt = texto["Situation3"]
     elif country == "Spain" and owner == "Private":
-        return texto["Situation4"]
+        txt = texto["Situation4"]
+    return txt
+
+
+def writing_analysis(txt):
+    report = f""" Regions in {txt["param1"]} usually have one {txt["param2"]} hospital for every {txt["param3"]} people 
+    whereas infant mortality goes from {txt["param4"]}. This number {txt["param5"]} related to the number of hospitals 
+    {txt["param6"]} have been counted as one unit and not for number of beds. On the other hand, {txt["param7"]} 
+    relationship could be observed between the area covered by a hospital and mortality{txt["param8"]} """
+
+    return "".join(report.split("\n    "))    
 
 
 def createpdf (country, owner):
@@ -25,14 +35,21 @@ def createpdf (country, owner):
     #pdf.set_draw_color(220,220,220) # give color to borders
     pdf.set_fill_color(200,200,200)
     pdf.cell(0, 20, f"{country} hospitals - mortality report", 0, 1, "C", True)
+    #FPDF.set_title(title = f"{country} hospitals - mortality report")
 
     # Image
-    pdf.image("OUTPUT/graphic.png", x = 25, y = 40, w = 160, h = 120)
+    pdf.image("OUTPUT/graphic.png", x = 25, y = 40, w = 150, h = 110)
 
     # Text
     pdf.set_font("Arial", "", 12)
     pdf.set_text_color(10,10,10)
-    pdf.cell(0, 100, situation (country, owner))
+    txt = situation (country, owner)
+    report = writing_analysis(txt)
+    #pdf.cell(0, 240, report)
+    #FPDF.text(x=0, y=140, report)
+    #FPDF.set_xy(0.00, 10.00)
+    pdf.set_xy(25,160)
+    pdf.write(10, report)
     
     # Save File
     pdf.output("OUTPUT/Report.pdf","F")

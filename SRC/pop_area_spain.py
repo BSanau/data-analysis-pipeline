@@ -1,4 +1,4 @@
-# Webscrapping: Getting population and area of each region in Spain
+# Webscraping: Getting population and area of each region in Spain
 
 import requests
 from bs4 import BeautifulSoup

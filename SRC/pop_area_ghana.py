@@ -1,4 +1,4 @@
-# Webscrapping: Getting population and area of each region in Ghana
+# Webscraping: Getting population and area of each region in Ghana
 
 import requests
 from bs4 import BeautifulSoup
