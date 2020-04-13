@@ -1,6 +1,5 @@
 # data-analysis-pipeline
 
-<img src "INPUT/image2.jpg">
 
 ## Objective
 
