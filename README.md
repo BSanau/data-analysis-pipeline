@@ -23,7 +23,7 @@ Wikipedia → Webscraping Ghana and Spain pages
 ## Program description
 
 This program has to be executed by console by entering two parameters:
->> python3 main.py --country COUNTRY --owner OWNER
+$ python3 main.py --country COUNTRY --owner OWNER
 
 COUNTRY: Enther Ghana or Spain
 OWNER: Enter Government or Private
