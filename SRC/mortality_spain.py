@@ -5,18 +5,19 @@
 import json
 import pandas as pd
 
-def mortality_spain():
+# Function to save data into a list of dictionaries
+def datoscomunidad (comunidad):
+    return {
+        "Region": comunidad["MetaData"][0]["Nombre"], # Comunidad autónoma
+        "Mortality": comunidad["Data"][0]["Valor"] #mortalidad
+        }
+
+
+def mortality_spain(path_json):
     # Reading jason file
-    with open('INPUT/Spain_Infant_mortality.json', 'r') as file:
+    with open(path_json, 'r') as file:
         datajson=file.read()
     rawdata = json.loads(datajson)
-
-    # Function to save data into a list of dictionaries
-    def datoscomunidad (comunidad):
-        return {
-            "Region": comunidad["MetaData"][0]["Nombre"], # Comunidad autónoma
-            "Mortality": comunidad["Data"][0]["Valor"] #mortalidad
-        }
 
     # Transforming function into df
     mortality = pd.DataFrame(list(map(datoscomunidad, rawdata[1:18])))

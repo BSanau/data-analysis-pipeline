@@ -17,4 +17,7 @@ texto = {
     "Situation4" : # Spain - Private
      {"param1" : "Spain", "param2" : "private", "param3" : "50k-250k", "param4" : "0,02-0,055%",
      "param5" : "does not seem", "param6" : "as they", "param7" : "no", "param8" : "."}
+    
+    
+    
     }

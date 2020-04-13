@@ -22,9 +22,9 @@ def structurePopulationLines(tag):
         }
 
 
-def population_area_spain():
+def population_area_spain(url):
     # Webscrapping Wikipedia
-    url = "https://es.wikipedia.org/wiki/Comunidad_aut%C3%B3noma"
+    #url = "https://es.wikipedia.org/wiki/Comunidad_aut%C3%B3noma"
     res = requests.get(url) #download content
     soup = BeautifulSoup(res.text, "html.parser") #parsing data
 

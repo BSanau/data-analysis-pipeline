@@ -15,9 +15,9 @@ def structureLine(tag):
             "Population (M)": int("".join(line[3].split(".")))/1000000      
         }
 
-def population_area_ghana ():
+def population_area_ghana (url):
     # Webscrapping Wikipedia
-    url = "https://es.wikipedia.org/wiki/Ghana"
+    #url = "https://es.wikipedia.org/wiki/Ghana"
     res = requests.get(url) #download content
     soup = BeautifulSoup(res.text, "html.parser") #parsing data
 

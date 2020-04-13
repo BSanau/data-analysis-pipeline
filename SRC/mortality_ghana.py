@@ -4,9 +4,9 @@
 
 import pandas as pd
 
-def mortality_ghana():
+def mortality_ghana(csv):
     # Reading csv file
-    mortality = pd.read_csv("INPUT/Ghana_infant_mortality.csv")
+    mortality = pd.read_csv(csv)
 
     # Dropping columns
     mortality = mortality.drop(columns = ["indicator", "Unit", "Date"])

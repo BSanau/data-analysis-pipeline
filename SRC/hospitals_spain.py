@@ -13,9 +13,9 @@ def datahosp(raw):
         }
 
 
-def spainhospitals():
+def spainhospitals(path_json):
     # Reading json file (previously download from API)
-    with open('INPUT/Spain_hospitals.json', 'r') as file:
+    with open(path_json, 'r') as file:
         datajson=file.read()
 
     rawdata = json.loads(datajson)
@@ -47,7 +47,6 @@ def spainhospitals():
     # Dropping columns with "Ownership" = "Others"
     # Indexes for which column "Ownership" has value "Others"
     indexNumber = hospitals_df[ hospitals_df["Ownership"] == "Others" ].index
-    
     # Delete these row indexes from dataFrame
     hospitals_df.drop(indexNumber , inplace=True)
 
@@ -104,7 +103,5 @@ def spainhospitals():
     hosp_spain = hosp_spain.rename(index=translator)
 
     hosp_spain["Country"] = "Spain"
-    #hosp_spain = hosp_spain.reset_index()
-    #hosp_spain = hosp_spain.rename(columns = {"index": "Region"})
 
     return hosp_spain
