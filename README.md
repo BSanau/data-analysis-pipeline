@@ -1,5 +1,6 @@
 # data-analysis-pipeline
 
+
 ## Objective
 
 To analise the hospital facilities in Spain and Ghana and how they are related to the infant mortality.
